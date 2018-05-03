@@ -1,0 +1,4 @@
+# 3.8 The Stability Fund \(SF\)
+
+This fund will act as the gateway of the GET Protocol and is a smart-contract that is able to hold both GET and ETH. This fund has a quite prominent role in the GET Protocol as it acts as a funnel for GET from the open market to be bought \(exchanged\) and used for ticketing by event organizers. In this role as gateway the stability fund achieves two of its functions, firstly providing the event organizers with the GET this actor needs to create smart tickets and account for the underlying ticket value during an event-cycle. Immediately after having sold the GET to the event organizer \(for Ether\) the contract will open a buy \(exchange\) contract towards the open market. This buy \(exchange\) contract will offer to buy \(exchange\) GET for Ether from the open market. The price \(exchange rate\) for this buy \(exchange\) contract will be provided by the GET pricing oracle \(GPO\).
+
